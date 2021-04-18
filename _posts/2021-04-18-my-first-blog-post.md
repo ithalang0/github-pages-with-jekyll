@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my blog"
+title: "Your blog post title"
 date: 2021-04-18
 ---
 
